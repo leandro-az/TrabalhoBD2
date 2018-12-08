@@ -1,0 +1,172 @@
+# depslib dependency file v1.0
+1468705051 source:c:\users\victo\desktop\pastas\dev\bd1\victor\trabalho\trabalhofinal\create.c
+	<string.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+
+1468704948 source:c:\users\victo\desktop\pastas\dev\bd1\victor\trabalho\trabalhofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"reader.h"
+
+1468169471 c:\users\victo\desktop\pastas\dev\bd1\victor\trabalho\trabalhofinal\processa.h
+
+1468691026 c:\users\victo\desktop\pastas\dev\bd1\victor\trabalho\trabalhofinal\create.h
+
+1468170148 c:\users\victo\desktop\pastas\dev\bd1\victor\trabalho\trabalhofinal\delete.h
+
+1468169016 c:\users\victo\desktop\pastas\dev\bd1\victor\trabalho\trabalhofinal\select.h
+
+1468170155 c:\users\victo\desktop\pastas\dev\bd1\victor\trabalho\trabalhofinal\update.h
+
+1468694042 c:\users\victo\desktop\pastas\dev\bd1\victor\trabalho\trabalhofinal\insert.h
+
+1468169062 c:\users\victo\desktop\pastas\dev\bd1\victor\trabalho\trabalhofinal\reader.h
+
+1468787100 source:c:\users\victo\desktop\pastas\dev\bd1\victor\trabalho\trabalhofinal\select.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1468724282 source:c:\users\victo\desktop\pastas\dev\bd1\victor\trabalho\trabalhofinal\reader.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"create.h"
+	"select.h"
+	"delete.h"
+	"insert.h"
+	"update.h"
+
+1468169450 source:c:\users\victo\desktop\pastas\dev\bd1\victor\trabalho\trabalhofinal\processa.c
+	"create.h"
+	"delete.h"
+	"select.h"
+	"update.h"
+	"insert.h"
+
+1468724331 source:c:\users\victo\desktop\pastas\dev\bd1\victor\trabalho\trabalhofinal\delete.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1468702045 source:c:\users\victo\desktop\pastas\dev\bd1\victor\trabalho\trabalhofinal\insert.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1468785679 source:c:\users\victo\desktop\pastas\dev\bd1\victor\trabalho\trabalhofinal\update.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1468705051 source:c:\users\almeida\desktop\trabalhofinal\create.c
+	<string.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+
+1468725390 source:c:\users\almeida\desktop\trabalhofinal\delete.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1468724928 source:c:\users\almeida\desktop\trabalhofinal\insert.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1468704948 source:c:\users\almeida\desktop\trabalhofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"reader.h"
+
+1468169062 c:\users\almeida\desktop\trabalhofinal\reader.h
+
+1468724282 source:c:\users\almeida\desktop\trabalhofinal\reader.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"create.h"
+	"select.h"
+	"delete.h"
+	"insert.h"
+	"update.h"
+
+1468691026 c:\users\almeida\desktop\trabalhofinal\create.h
+
+1468169016 c:\users\almeida\desktop\trabalhofinal\select.h
+
+1468170148 c:\users\almeida\desktop\trabalhofinal\delete.h
+
+1468694042 c:\users\almeida\desktop\trabalhofinal\insert.h
+
+1468170155 c:\users\almeida\desktop\trabalhofinal\update.h
+
+1468787100 source:c:\users\almeida\desktop\trabalhofinal\select.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1468785679 source:c:\users\almeida\desktop\trabalhofinal\update.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1468705051 source:c:\users\victo\desktop\trabalhofinal\create.c
+	<string.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+
+1468725390 source:c:\users\victo\desktop\trabalhofinal\delete.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1468724928 source:c:\users\victo\desktop\trabalhofinal\insert.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1468704948 source:c:\users\victo\desktop\trabalhofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"reader.h"
+
+1468169062 c:\users\victo\desktop\trabalhofinal\reader.h
+
+1468799707 source:c:\users\victo\desktop\trabalhofinal\reader.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"create.h"
+	"select.h"
+	"delete.h"
+	"insert.h"
+	"update.h"
+
+1468691026 c:\users\victo\desktop\trabalhofinal\create.h
+
+1468169016 c:\users\victo\desktop\trabalhofinal\select.h
+
+1468170148 c:\users\victo\desktop\trabalhofinal\delete.h
+
+1468694042 c:\users\victo\desktop\trabalhofinal\insert.h
+
+1468170155 c:\users\victo\desktop\trabalhofinal\update.h
+
+1468787100 source:c:\users\victo\desktop\trabalhofinal\select.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1468785679 source:c:\users\victo\desktop\trabalhofinal\update.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

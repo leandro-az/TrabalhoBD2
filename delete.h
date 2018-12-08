@@ -1,0 +1,1 @@
+void DELETE( char * sql );
